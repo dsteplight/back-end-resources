@@ -3,6 +3,8 @@ A repo of back-end standards, techniques and topics relevant to my present and f
 
 ## Programming Languages
 * [PHP](http://www.php.net/)
+* [Python](https://www.python.org/)
+* [ExpressJs](https://expressjs.com/)
 
 ## Databases
 * [MySql](https://www.mysql.com/)
@@ -22,6 +24,7 @@ A repo of back-end standards, techniques and topics relevant to my present and f
 * [AWS](https://aws.amazon.com/)
 * [Aquia](https://www.acquia.com/)
 * [Pantheon](https://pantheon.io/)
+* [Heroku](https://www.heroku.com/)
 
-# Version Control
+## Version Control
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
